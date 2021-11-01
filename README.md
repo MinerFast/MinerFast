@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MinerFast
 - 👀 I’m interested in Creating games and C#
 - 🌱 I am currently studying at the Minsk Technological College
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on with game studios
 - 📫 How to reach me Telegram: @ShkSanya, mail: erennyfst@gmail.com
 
 <!---
